@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="welcome_name">Witaj w grze!</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_extension">Rozszerzenie pliku android to .akp</string>
+    <string name="q_processes">Każdy proces jest uruchamiany na wirtualnej maszynie</string>
+    <string name="q_activity">Jednym z activity może być wysyłanie wiadomości e-mail</string>
+    <string name="q_activity_p">Jednym ze stanów activity może być blocked</string>
+    <string name="q_java">Java nie jest językiem programowania aplikacji na androida</string>
+
+    <string name="incorrect_answer">Zła odpowiedź!</string>
+    <string name="correct_answer">Dobra odpowiedź!</string>
+</resources>
