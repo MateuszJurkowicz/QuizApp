@@ -25,6 +25,11 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, resultMessageId, Toast.LENGTH_SHORT).show();
         if (currentIndex == 4) {
             tellAnswers();
+            userCorrectAnswers = 0;
+        }
+        else
+        {
+            tellAnswersView.setText("");
         }
 
     }
