@@ -13,4 +13,10 @@
 
     <string name="incorrect_answer">Zła odpowiedź!</string>
     <string name="correct_answer">Dobra odpowiedź!</string>
+
+    <string name="q_prompt">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="button_show_prompt">Pokaż podpowiedź</string>
+    <string name="button_prompt">Podpowiedź</string>
+
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
 </resources>
